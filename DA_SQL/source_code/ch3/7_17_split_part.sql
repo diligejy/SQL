@@ -1,0 +1,5 @@
+SELECT 
+	SPLIT_PART('A001,A002,A003', ',', 1) AS part1 
+	, SPLIT_PART('A001,A002,A003', ',', 2) AS part2
+	, SPLIT_PART('A001,A002,A003', ',', 3) AS part3
+;
