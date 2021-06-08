@@ -1,0 +1,16 @@
+SELECT ename, REPLACE(sal, 0, '*')
+   FROM emp;
+   
+SELECT ename, REGEXP_REPLACE(sal, '[0-3]', '*') as SALARY
+   FROM emp;
+   
+CREATE TABLE TEST_ENAME
+(ENAME VARCHAR2(10));
+
+INSERT INTO TEST_ENAME VALUES('김인호');
+INSERT INTO TEST_ENAME VALUES('안상수');
+INSERT INTO TEST_ENAME VALUES('최영희');
+COMMIT;
+
+SELECT REPLACE(ename, SUBSTR(ename, 2, 1), '*') as "전광판_이름"
+   FROM test_ename;

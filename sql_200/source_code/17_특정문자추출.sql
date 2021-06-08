@@ -1,0 +1,8 @@
+SELECT SUBSTR('SMITH', 1, 3)
+   FROM dual;
+
+SELECT SUBSTR('SMITH', -2, 2)
+   FROM dual;
+   
+SELECT SUBSTR('SMITH', 2)
+   FROM dual;

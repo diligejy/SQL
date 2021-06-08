@@ -1,0 +1,5 @@
+SELECT DISTINCT job
+   FROM emp;
+   
+SELECT UNIQUE job
+   FROM emp;
