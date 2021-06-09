@@ -8,4 +8,6 @@
 
 ## [Investigating a Drop in User Engagement](Investigating_a_Drop_in_User_Engagement.md)
 
+- ### [Summary Report](https://docs.google.com/spreadsheets/d/1lRBo_5Q8PhqjyffJJbw28h6qLnI03fModc9LbV3HsCQ/edit?usp=sharing)
+
 ## [Investigating a Drop in User Engagement:Answer](Investigating_a_Drop_in_User_Engagement_Answer.md)
