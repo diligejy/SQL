@@ -23,4 +23,9 @@
 
 ## [Validating A/B Test Results](Validating_AB_Test_Results.md)
 
+- ### [Summary Report](https://docs.google.com/spreadsheets/d/146T_8Wl_uiXOciUYQt2GgxdzQTFPlakcq0lfBzHlZfE/edit?usp=sharing)
+
 ## [Validating A/B Test Results:Answer](Validating_AB_Test_Results_Answer.md)
+
+- [강규영 - A/B 테스팅이란](https://boxnwhis.kr/2015/01/29/a_b_testing.html)
+- [권정민 - 실무 AB테스트](https://www.slideshare.net/cojette/ab-150118831)
