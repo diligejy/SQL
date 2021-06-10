@@ -6,7 +6,7 @@
 
 2. dataset은 MODE에서 제공한 Fake Data를 활용하며 dataset폴더에 있는 csv는 크기가 큰 관계로 100개의 Row만 업로드
 
-## [Investigating a Drop in User Engagement](Investigating_a_Drop_in_User_Engagement.md)
+## 1. [Investigating a Drop in User Engagement](Investigating_a_Drop_in_User_Engagement.md)
 
 - ### [Summary Report](https://docs.google.com/spreadsheets/d/1lRBo_5Q8PhqjyffJJbw28h6qLnI03fModc9LbV3HsCQ/edit?usp=sharing)
 
@@ -15,11 +15,11 @@
 - [포스타입 팀 블로그: 기획자와 마케터를 위한 활성사용자 총정리](https://team.postype.com/post/9405656)
 - [파워 유저 커브(스마일 커브)](https://medium.com/daangn/%ED%8C%8C%EC%9B%8C%EC%9C%A0%EC%A0%80-%EC%BB%A4%EB%B8%8C-%EC%8A%A4%EB%A7%88%EC%9D%BC-%EC%BB%A4%EB%B8%8C-5762ae5854e7)
 
-## [Understanding Search Functionality](Understanding_Search_Functionality.md)
+## 2. [Understanding Search Functionality](Understanding_Search_Functionality.md)
 
 - ### [Summary Report](https://docs.google.com/spreadsheets/d/1-fSnTnTZq8CxD3Jctsu5dfN3ABvdn5mmdVPt2KKCbjs/edit?usp=sharing)
 
-## [Understanding Search Functionality:Answer](Understanding_Search_Functionality_Answer.md)
+## 3. [Understanding Search Functionality:Answer](Understanding_Search_Functionality_Answer.md)
 
 ## [Validating A/B Test Results](Validating_AB_Test_Results.md)
 
