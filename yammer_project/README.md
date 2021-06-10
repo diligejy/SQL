@@ -19,9 +19,9 @@
 
 - ### [Summary Report](https://docs.google.com/spreadsheets/d/1-fSnTnTZq8CxD3Jctsu5dfN3ABvdn5mmdVPt2KKCbjs/edit?usp=sharing)
 
-## 3. [Understanding Search Functionality:Answer](Understanding_Search_Functionality_Answer.md)
+## [Understanding Search Functionality:Answer](Understanding_Search_Functionality_Answer.md)
 
-## [Validating A/B Test Results](Validating_AB_Test_Results.md)
+## 3. [Validating A/B Test Results](Validating_AB_Test_Results.md)
 
 - ### [Summary Report](https://docs.google.com/spreadsheets/d/146T_8Wl_uiXOciUYQt2GgxdzQTFPlakcq0lfBzHlZfE/edit?usp=sharing)
 
