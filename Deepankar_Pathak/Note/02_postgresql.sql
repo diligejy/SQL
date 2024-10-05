@@ -14,8 +14,8 @@ SELECT *
 	, position('_' in email)
 FROM data_raw;
 
-SELECT 
+SELECT id, name, 
 	 OVERLAY(email1 PLACING '' FROM position('"' IN email1) FOR position('"' IN email1)) AS email2
 FROM 
-(SELECT overlay(email placing '' from position('_' in email) for position('_' in email)) AS email1
+(SELECT id, name, overlay(email placing '' from position('_' in email) for position('_' in email)) AS email1
 FROM data_raw) AS t
