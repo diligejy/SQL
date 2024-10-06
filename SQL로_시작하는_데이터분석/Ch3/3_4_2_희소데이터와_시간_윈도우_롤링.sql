@@ -43,4 +43,4 @@ JOIN us_retail_sales b
 ON b.sales_month BETWEEN a.sales_month - INTERVAL '11 months' AND a.sales_month
 AND kind_of_business = 'Women''s clothing stores'
 GROUP BY 1
-ORDER BY 1
+ORDER BY 1;
